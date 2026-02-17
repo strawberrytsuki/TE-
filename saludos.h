@@ -1,0 +1,5 @@
+void saludarMX(){
+
+	printf("hola")
+
+}
