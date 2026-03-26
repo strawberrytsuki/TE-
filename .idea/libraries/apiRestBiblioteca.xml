@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apiRestBiblioteca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tarea7ApirestCompleta/apiRestBiblioteca.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
